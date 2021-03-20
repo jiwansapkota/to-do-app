@@ -1,0 +1,13 @@
+.buttonContainer{
+    margin-top: 10px;
+    align-content: center;
+    
+}
+.buttonWrapper{
+    margin: auto;
+    padding: 5px;
+    border-radius: 20px;
+    width: 50px;
+    height: auto;
+    background-color: blue;
+}
